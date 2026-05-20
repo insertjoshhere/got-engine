@@ -17,3 +17,6 @@ The goal of this project is to implement academic research paradigms directly in
 
 ## Business & Application Context
 This engine targets mission-critical corporate decision-support rooms, complex supply chain logistics, and high-stakes auditing environments (such as contract compliance, insurance appeals processing, or network configuration analysis). In these fields, simple linear prompt engineering fails because business problems possess deep structural dependencies—a choice made in step two might violate a contractual clause analyzed in step ten. This framework is deployed to handle highly ambiguous, multi-factor problem spaces. It forces the language model to systematically draft multiple parallel analytical branches, score the logical and legal validity of each deduction against deterministic corporate parameters, prune non-viable options early, and backtrack to explore alternative logical solutions, ultimately delivering a legally defensible, zero-hallucination execution path.
+
+## Architecture
+https://drive.google.com/file/d/12HO5uFq0cD988pa0tZVA7Ri1smiqfKqu/view?usp=sharing
